@@ -6,4 +6,7 @@ setup(
     description="Sample datasets for the DISPATCHES project",
     use_scm_version=True,
     setup_requires=["setuptools_scm"],
+    install_requires=[
+        "importlib-metadata; python_version < '3.8'",
+    ]
 )
