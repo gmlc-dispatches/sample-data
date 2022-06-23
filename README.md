@@ -12,7 +12,7 @@ To install the package:
 
 ```sh
 pip install dispatches-sample-data
-pip install "dispatches-sample-data @ https://github.com/gmlc-dispatches/sample-data"
+pip install git+https://github.com/gmlc-dispatches/sample-data
 ```
 
 Importing and using the package in Python code:
