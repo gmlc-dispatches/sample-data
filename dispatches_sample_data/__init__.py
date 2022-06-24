@@ -1,7 +1,7 @@
 try:
     # Python 3.8+
     from importlib import metadata
-except ModuleNotFoundError:
+except ImportError:
     # Python 3.7
     import importlib_metadata as metadata
 
