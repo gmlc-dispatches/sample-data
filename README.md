@@ -45,7 +45,6 @@ The output should be something like:
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/bus.csv
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/dc_branch.csv
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/gen.csv
-/opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/reserves.csv
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/simulation_objects.csv
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/storage.csv
 /opt/conda/envs/test-dispatches-sd/lib/python3.7/site-packages/dispatches_sample_data/rts_gmlc/SourceData/timeseries_pointers.csv
