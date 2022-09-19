@@ -7,7 +7,7 @@ The [`DAY_AHEAD_Natural_Inflow.csv`](https://github.com/GridMod/RTS-GMLC/blob/ma
 ## HYDRO
 The [`DAY_AHEAD_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/Hydro/DAY_AHEAD_hydro.csv) contains the hydro power output for each hydro plant by hour.
 
-The [`REAL_TIME_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/HYDRO/REAL_TIME_hydro.csv) contains the hydro power output for each hydro plant by 5-minute interval.
+The [`REAL_TIME_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/Hydro/REAL_TIME_hydro.csv) contains the hydro power output for each hydro plant by 5-minute interval.
 
 *NOTE: the DAY-AHEAD and REAL-TIME hydro profiles are exactly the same, just with a different number of intervals defined*
 
