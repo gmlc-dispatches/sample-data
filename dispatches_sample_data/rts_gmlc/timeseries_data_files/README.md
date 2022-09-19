@@ -5,9 +5,9 @@ This folder contains the timeseries data required to run PCM simulations
 The [`DAY_AHEAD_Natural_Inflow.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/CSP/DAY_AHEAD_Natural_Inflow.csv) contains the solar power potential of the CSP plant by hour
 
 ## HYDRO
-The [`DAY_AHEAD_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/HYDRO/DAY_AHEAD_hydro.csv) contains the hydro power output for each hydro plant by hour.
+The [`DAY_AHEAD_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/Hydro/DAY_AHEAD_hydro.csv) contains the hydro power output for each hydro plant by hour.
 
-The [`REAL_TIME_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/HYDRO/REAL_TIME_hydro.csv) contains the hydro power output for each hydro plant by 5-minute interval.
+The [`REAL_TIME_hydro.csv`](https://github.com/GridMod/RTS-GMLC/blob/master/RTS_Data/timeseries_data_files/Hydro/REAL_TIME_hydro.csv) contains the hydro power output for each hydro plant by 5-minute interval.
 
 *NOTE: the DAY-AHEAD and REAL-TIME hydro profiles are exactly the same, just with a different number of intervals defined*
 
